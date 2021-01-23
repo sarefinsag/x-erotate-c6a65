@@ -119,7 +119,7 @@ sections:
     actions: []
     type: ''
   subtitle: ''
-  title_url: "/cheatsheets"
+  title_url: static/cheatsheets
 - template: section_grid
   col_number: three
   type: section_grid
