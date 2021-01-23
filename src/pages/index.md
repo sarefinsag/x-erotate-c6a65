@@ -77,7 +77,7 @@ sections:
   section_id: cheatsheet
   grid_items:
   - title: C++ Language
-    title_url: "/cheatsheets/cppsheet"
+    title_url: ''
     image: ''
     image_alt: ''
     content: ''
@@ -119,7 +119,7 @@ sections:
     actions: []
     type: ''
   subtitle: ''
-  title_url: static/cheatsheets
+  title_url: "/cheatsheets"
 - template: section_grid
   col_number: three
   type: section_grid
