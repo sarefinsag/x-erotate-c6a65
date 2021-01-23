@@ -285,6 +285,55 @@ sections:
     icon_class: ''
     new_window: false
     no_follow: false
+- template: section_grid
+  col_number: three
+  type: section_grid
+  title: Informative
+  section_id: informations
+  grid_items:
+  - title: Competitive Programming
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Which Language ?
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Data Science with Python
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Outlook Mail
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Data Structure
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Learning Platform
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  subtitle: ''
 template: advanced
 excerpt: ''
 
