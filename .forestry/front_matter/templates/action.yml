@@ -59,4 +59,4 @@ fields:
   hidden: true
   default: action
   config:
-    required: true
+    required: false
