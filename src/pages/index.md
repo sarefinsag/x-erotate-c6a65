@@ -163,21 +163,21 @@ sections:
     title_url: ''
     image: ''
     image_alt: ''
-    content: ''
+    content: A platform as a service (PaaS) that...
     actions: []
     type: ''
   - title: C/C++
     title_url: ''
     image: ''
     image_alt: ''
-    content: ''
+    content: Mainly five types of errors exist in...
     actions: []
     type: ''
   - title: Error of Life
     title_url: ''
     image: ''
     image_alt: ''
-    content: ''
+    content: Encounter some kind of stupid code...
     actions: []
     type: ''
   subtitle: ''
