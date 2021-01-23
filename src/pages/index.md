@@ -229,6 +229,34 @@ sections:
     actions: []
     type: ''
   subtitle: ''
+- template: section_grid
+  col_number: three
+  type: section_grid
+  title: Problems & Solutions
+  section_id: probsolve
+  grid_items:
+  - title: Basic
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Intermediate
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Advance
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  subtitle: ''
 template: advanced
 excerpt: ''
 
