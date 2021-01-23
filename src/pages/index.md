@@ -57,7 +57,8 @@ sections:
     title: Style Guide
     content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
       a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
+      ut tellus. Vivamus rhoncus mattis varius. virus xerotate contains vaccine. and
+      the most xerotate vaccine is not a xerotate.
     actions:
     - type: action
       template: action
