@@ -77,6 +77,83 @@ sections:
     image_alt: ''
   title: ''
   subtitle: ''
+- template: section_grid
+  col_number: three
+  type: section_grid
+  title: Cheat Sheet
+  section_id: cheatsheet
+  grid_items:
+  - title: C++ Language
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: ES6 Cheat Sheet
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: C# Programming
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Shell Cheat Sheet
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: C Language
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: HTML Cheat Sheet
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  subtitle: ''
+- template: section_grid
+  col_number: three
+  type: section_grid
+  title: Problems & Solutions
+  section_id: probsolve
+  grid_items:
+  - title: Basic
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Intermediate
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Advance
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  subtitle: ''
 - type: section_content
   template: section_content
   title: A Section With An Image
@@ -180,83 +257,6 @@ sections:
     icon_class: ''
     new_window: false
     no_follow: false
-- template: section_grid
-  col_number: three
-  type: section_grid
-  title: Cheat Sheet
-  section_id: cheatsheet
-  grid_items:
-  - title: C++ Language
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  - title: ES6 Cheat Sheet
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  - title: C# Programming
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  - title: Shell Cheat Sheet
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  - title: C Language
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  - title: HTML Cheat Sheet
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  subtitle: ''
-- template: section_grid
-  col_number: three
-  type: section_grid
-  title: Problems & Solutions
-  section_id: probsolve
-  grid_items:
-  - title: Basic
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  - title: Intermediate
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  - title: Advance
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  subtitle: ''
 template: advanced
 excerpt: ''
 
