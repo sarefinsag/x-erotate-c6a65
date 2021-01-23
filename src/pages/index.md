@@ -38,8 +38,8 @@ sections:
     title: Blog
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu. and vetu is
-      not a vaowel and also become a not vowel . lord powell and lord mithun ali is
-      a xoos Xerotate. theat xerotate contains
+      not a vaowel and also become a not vowel . lord xrotate and lord mithun ali
+      is a xoos Xerotate. theat xerotate contains
     actions:
     - type: action
       template: action
