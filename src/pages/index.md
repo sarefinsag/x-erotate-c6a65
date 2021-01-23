@@ -17,9 +17,10 @@ sections:
   - type: grid_item
     template: grid_item
     title: Documentation
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
+    content: 'Xerotate is a non profit organization that will serve more and more
+      contents freely and Some examples from the web: There must be **_some error_**
+      on our part. The puzzle you entered contains **_some errors_**. As **_some errors_**
+      were fund in the data'
     actions:
     - type: action
       template: action
