@@ -154,6 +154,34 @@ sections:
     actions: []
     type: ''
   subtitle: ''
+- template: section_grid
+  col_number: three
+  type: section_grid
+  title: Errors
+  section_id: errors
+  grid_items:
+  - title: Heroku
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: C/C++
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Error of Life
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  subtitle: ''
 - type: section_content
   template: section_content
   title: A Section With An Image
@@ -257,34 +285,6 @@ sections:
     icon_class: ''
     new_window: false
     no_follow: false
-- template: section_grid
-  col_number: three
-  type: section_grid
-  title: Errors
-  section_id: errors
-  grid_items:
-  - title: Heroku
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  - title: C / C++
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  - title: Error of Life
-    title_url: ''
-    image: ''
-    image_alt: ''
-    content: ''
-    actions: []
-    type: ''
-  subtitle: ''
 template: advanced
 excerpt: ''
 
