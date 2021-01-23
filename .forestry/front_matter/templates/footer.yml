@@ -34,11 +34,3 @@ fields:
     template: action
   config:
     labelField: label
-- type: text
-  name: type
-  label: Object Type
-  description: The type of the object
-  hidden: true
-  default: footer
-  config:
-    required: false
