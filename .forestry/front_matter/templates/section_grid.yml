@@ -44,4 +44,4 @@ fields:
   hidden: true
   default: section_grid
   config:
-    required: true
+    required: false
