@@ -208,28 +208,32 @@ sections:
     title_url: ''
     image: ''
     image_alt: ''
-    content: ''
+    content: Most of the data scientists use python for data science. This dynamic
+      language is easy to...
     actions: []
     type: ''
   - title: Outlook Mail
     title_url: ''
     image: ''
     image_alt: ''
-    content: ''
+    content: It has many benefits. Notable among them are premium resources and security
+      purposes...
     actions: []
     type: ''
   - title: Data Structure
     title_url: ''
     image: ''
     image_alt: ''
-    content: ''
+    content: A data organization, management, and storage format that enables efficient
+      access...
     actions: []
     type: ''
   - title: Learning Platform
     title_url: ''
     image: ''
     image_alt: ''
-    content: ''
+    content: An integrated set of interactive online services that provide teachers,
+      learners, parents..
     actions: []
     type: ''
   subtitle: ''
