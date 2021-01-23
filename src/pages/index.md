@@ -192,7 +192,8 @@ sections:
     title_url: ''
     image: ''
     image_alt: ''
-    content: ''
+    content: Competitive programming is a mind sport usually held over the Internet
+      or a local network...
     actions: []
     type: ''
   - title: Which Language ?
