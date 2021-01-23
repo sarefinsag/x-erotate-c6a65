@@ -7,11 +7,6 @@ fields:
   name: title
   label: Title
   description: The title of the section.
-- name: more_key
-  type: include
-  config: {}
-  template: section_grid
-  label: More
 - type: text
   name: section_id
   label: Section ID
