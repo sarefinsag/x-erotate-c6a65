@@ -229,6 +229,7 @@ sections:
   subtitle: ''
   title_url: "/informations"
 template: advanced
-excerpt: ''
+excerpt: Xerotate is an idea that will introduce you to future technologies with different
+  solutions and something innovative.
 
 ---
