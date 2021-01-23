@@ -11,7 +11,7 @@ fields:
   type: text
   config:
     required: false
-  label: Title Url
+  label: Title URL
   hidden: true
 - type: text
   name: section_id
