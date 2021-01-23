@@ -200,7 +200,8 @@ sections:
     title_url: ''
     image: ''
     image_alt: ''
-    content: ''
+    content: Some say Python, some say C. I'm confused and stuck in a puzzle. Which
+      and why should learn first...
     actions: []
     type: ''
   - title: Data Science with Python
