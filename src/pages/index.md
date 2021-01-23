@@ -69,6 +69,7 @@ sections:
     image_alt: ''
   title: ''
   subtitle: ''
+  title_url: ''
 - template: section_grid
   col_number: three
   type: section_grid
@@ -118,6 +119,7 @@ sections:
     actions: []
     type: ''
   subtitle: ''
+  title_url: "/cheatsheets"
 - template: section_grid
   col_number: three
   type: section_grid
@@ -146,6 +148,7 @@ sections:
     actions: []
     type: ''
   subtitle: ''
+  title_url: "/problemsolving"
 - template: section_grid
   col_number: three
   type: section_grid
@@ -174,6 +177,7 @@ sections:
     actions: []
     type: ''
   subtitle: ''
+  title_url: "/allerrors"
 - template: section_grid
   col_number: three
   type: section_grid
@@ -223,6 +227,7 @@ sections:
     actions: []
     type: ''
   subtitle: ''
+  title_url: "/informations"
 - type: section_content
   template: section_content
   title: A Section With An Image
@@ -312,6 +317,7 @@ sections:
     title_url: ''
     image: ''
     image_alt: ''
+  title_url: ''
 - type: section_cta
   template: section_cta
   title: The Title of The Call to Action Block
