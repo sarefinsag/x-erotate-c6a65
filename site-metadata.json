@@ -132,10 +132,28 @@
         "no_follow": false
       },
       {
+        "style": "icon",
+        "label": "Facebook",
+        "url": "https://www.facebook.com/xerotate/",
+        "icon_class": "facebook",
+        "new_window": true,
+        "no_follow": false,
+        "type": ""
+      },
+      {
+        "style": "icon",
+        "url": "https://www.youtube.com/channel/UCSGbCfgiumGBCkIhfObVXKA",
+        "label": "YouTube",
+        "icon_class": "youtube",
+        "new_window": true,
+        "no_follow": false,
+        "type": ""
+      },
+      {
         "type": "action",
         "template": "action",
         "label": "Twitter",
-        "url": "https://twitter.com/",
+        "url": "https://twitter.com/xerotate",
         "style": "icon",
         "icon_class": "twitter",
         "new_window": true,
@@ -144,10 +162,10 @@
       {
         "type": "action",
         "template": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
+        "label": "Instagram",
+        "url": "https://www.instagram.com/xerotate/",
         "style": "icon",
-        "icon_class": "linkedin",
+        "icon_class": "instagram",
         "new_window": true,
         "no_follow": false
       }
