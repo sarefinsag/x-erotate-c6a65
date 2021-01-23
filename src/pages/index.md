@@ -185,7 +185,49 @@ sections:
   type: section_grid
   title: Cheat Sheet
   section_id: cheatsheet
-  grid_items: []
+  grid_items:
+  - title: C++ Language
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: ES6 Cheat Sheet
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: C# Programming
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: Shell Cheat Sheet
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: C Language
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
+  - title: HTML Cheat Sheet
+    title_url: ''
+    image: ''
+    image_alt: ''
+    content: ''
+    actions: []
+    type: ''
   subtitle: ''
 template: advanced
 excerpt: ''
