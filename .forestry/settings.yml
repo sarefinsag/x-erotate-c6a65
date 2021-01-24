@@ -5,10 +5,8 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/600c6a657ca19e00159c0b84/webhook/forestry
 sections:
 - type: document
-  path: src/pages/resource
+  path: src/pages/resource/index.md
   label: Resource
-  match: "**/*"
-  read_only: false
 - type: document
   path: site-metadata.json
   label: Site Configuration
