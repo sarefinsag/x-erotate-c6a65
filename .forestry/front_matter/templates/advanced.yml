@@ -33,5 +33,6 @@ pages:
 - src/pages/blog/cheat-sheets.md
 - src/pages/index.md
 - src/pages/overview.md
+- src/pages/resource/cheat-sheets.md
 - src/pages/resource/resources.md
 - src/pages/showcase.md
