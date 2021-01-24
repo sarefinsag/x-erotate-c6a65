@@ -123,7 +123,7 @@ sections:
     content: ''
     actions: []
     type: ''
-  subtitle: ''
+  subtitle: <a href="https://x-erotate-c6a65.netlify.app/resource/cheat-sheets">more</a>
   title_url: "/cheatsheets"
   url: ''
 - template: section_grid
