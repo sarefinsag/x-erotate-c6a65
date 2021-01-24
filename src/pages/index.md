@@ -78,7 +78,7 @@ sections:
 - template: section_grid
   col_number: three
   type: section_grid
-  title: <Link to="/resource/cheat-sheets">Cheat Sheets</Link>
+  title: <a href="/resource/cheat-sheets">Cheat Sheets</a>
   section_id: cheatsheet
   grid_items:
   - title: C++ Language
