@@ -125,7 +125,7 @@ sections:
     type: ''
   subtitle: ''
   title_url: "/cheatsheets"
-  url: "/resource/cheat-sheets"
+  url: src/resource/cheat-sheets
 - template: section_grid
   col_number: three
   type: section_grid
