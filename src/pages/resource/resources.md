@@ -7,7 +7,10 @@ sections:
   type: section_hero
   title: Cheat Sheets by Xerotate
   section_id: xcheatsheet
-  content: xerotate resource here you will find here and bla bla bla bla bla bla bla
+  content: A cheat sheet (also cheatsheet) or crib sheet is a concise set of notes
+    used for quick reference. Here, you will find some cheatsheets that are badly
+    needed for a learner or a professional. Xerotate makes it easy to find and collect
+    data from cheatsheets.
   image: ''
   actions: []
 
