@@ -78,7 +78,7 @@ sections:
 - template: section_grid
   col_number: three
   type: section_grid
-  title: <a href="/resource/cheat-sheets">Cheat Sheets</a>
+  title: Cheat Sheets
   section_id: cheatsheet
   grid_items:
   - title: C++ Language
@@ -123,9 +123,9 @@ sections:
     content: ''
     actions: []
     type: ''
-  subtitle: <Link to="https://x-erotate-c6a65.netlify.app/resource/cheat-sheets">more</Link>
+  subtitle: ''
   title_url: "/cheatsheets"
-  url: ''
+  url: https://x-erotate-c6a65.netlify.app/resource/cheat-sheets
 - template: section_grid
   col_number: three
   type: section_grid
