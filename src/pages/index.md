@@ -125,7 +125,7 @@ sections:
     type: ''
   subtitle: ''
   title_url: "/cheatsheets"
-  url: https://x-erotate-c6a65.netlify.app/resource/cheat-sheets
+  url: ''
 - template: section_grid
   col_number: three
   type: section_grid
