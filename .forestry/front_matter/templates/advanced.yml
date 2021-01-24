@@ -30,6 +30,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/blog/cheat-sheets.md
 - src/pages/index.md
 - src/pages/overview.md
 - src/pages/showcase.md
