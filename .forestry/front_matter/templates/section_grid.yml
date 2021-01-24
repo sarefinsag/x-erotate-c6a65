@@ -7,6 +7,11 @@ fields:
   name: title
   label: Title
   description: The title of the section.
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL
 - type: text
   name: section_id
   label: Section ID
